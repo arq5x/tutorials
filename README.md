@@ -9,3 +9,5 @@ Create HTML tutorials:
 Open one:
 
 	open bedtools.html
+	
+An [example](http://quinlanlab.org/tutorials/cshl2013/gemini.html)
